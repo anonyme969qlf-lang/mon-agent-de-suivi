@@ -1,12 +1,12 @@
 {
   "name": "Mon Agent de Suivi",
   "short_name": "Agent Suivi",
-  "description": "Suivi du poids, objectif, météo et balance Bluetooth.",
-  "start_url": "./index.html",
+  "description": "Tableau de bord futuriste de suivi personnel : poids, météo, objectif et capteurs Bluetooth compatibles.",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f3f7fc",
-  "theme_color": "#3985f7",
+  "background_color": "#050b11",
+  "theme_color": "#07131d",
   "icons": [
     {
       "src": "icon-192.svg",
